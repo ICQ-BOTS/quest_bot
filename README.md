@@ -1,6 +1,15 @@
 # Квестики
 
-Старт:
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/quest_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/quest_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/quest_bot#скриншоты-работы)
+
+# Описание
+Бот для создание квестов!
+
+# Установка
+
 1. Установка всех зависимостей 
 ```bash
 pip install -r requirements.txt
@@ -20,3 +29,7 @@ tarantoolctl start quest.lua
 ```bash
 python3 quest_bot.py
 ```
+
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/quest_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/quest_bot/blob/main/img/2.png" width="400">
